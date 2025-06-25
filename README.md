@@ -4,7 +4,7 @@ This repository contains the official Python implementation for the paper: **"A 
 
 Our work introduces the **Resilient Mean-Field Game (R-MFG) framework**, a novel distributed control architecture designed to enable scalable, secure, and real-time coordination for multi-vehicle systems. This framework is robust against False Data Injection (FDI) attacks on V2X communication channels.
 
-[![Paper PDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/your_arxiv_id)  _(<-- Replace with your arXiv link when available)_
+[![Paper PDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/your_arxiv_id)  
 
  
 _(<-- Optional: You can add a compelling figure from your paper here)_
