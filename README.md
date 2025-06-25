@@ -6,8 +6,7 @@ Our work introduces the **Resilient Mean-Field Game (R-MFG) framework**, a novel
 
 [![Paper PDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/your_arxiv_id)  
 
- 
-_(<-- Optional: You can add a compelling figure from your paper here)_
+
 
 ## Key Features
 
